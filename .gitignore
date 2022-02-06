@@ -1,0 +1,11 @@
+.env
+dist
+node_modules
+.DS_Store
+release-builds
+.idea
+yarn.lock
+package-lock.json
+related
+icon.psd
+
